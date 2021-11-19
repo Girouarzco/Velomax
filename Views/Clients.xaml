@@ -1,0 +1,110 @@
+﻿<Window x:Class="VeloMax.Views.Clients"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:VeloMax.Views"
+        mc:Ignorable="d"
+        Title="Clients" Height="800" Width="1200">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="20"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="2*"/>
+        </Grid.RowDefinitions>
+
+        <Label Content="Gestion clients" Grid.Row="0" FontSize="26" FontWeight="Bold" HorizontalAlignment="Center" VerticalAlignment="Center" Height="50" Width="400"></Label>
+        <GroupBox Grid.Row="2" Header="Ajouter nouveau client">
+            <Grid >
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <RadioButton x:Name="rbStore" Click="rbStore_Click" Grid.Column="1" Grid.Row="0" Content="Magasin" FontSize="16" HorizontalAlignment="Center"  VerticalAlignment="Center" />
+                <RadioButton x:Name="rbindividus" Click="rbindividus_Click" Grid.Column="3" Grid.Row="0" Content="Personne" FontSize="16" HorizontalAlignment="Center"  VerticalAlignment="Center" />
+
+                <Label Grid.Column="0" Grid.Row="1" Content="Contact magasin:" FontSize="16" HorizontalAlignment="Center"  VerticalAlignment="Center"/>
+
+                <TextBox Text="" Grid.Column="1" Grid.Row="1" Name="tbCpersonne" Width="190" FontSize="16" HorizontalAlignment="Center" Height="30" VerticalAlignment="Center" />
+
+                <Label  Grid.Column="2" Grid.Row="1" Content="Nom client/entreprise:" FontSize="16" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                <TextBox Text="" Grid.Column="3" Grid.Row="1" x:Name="tbCompany" FontSize="16" HorizontalAlignment="Left" Width="190" Height="30" VerticalAlignment="Center" />
+
+                <Label Grid.Column="4" Grid.Row="1" Content="Numéro :" FontSize="16" HorizontalAlignment="Center" VerticalAlignment="Center" />
+                <TextBox Text="" Grid.Column="5" Grid.Row="1" Name="tbContact" FontSize="16" HorizontalAlignment="Left" Height="30" Width="193" VerticalAlignment="Center">
+
+                </TextBox>
+
+                <Label Grid.Row="2" Grid.Column="0" Content="Adresse:" FontSize="16" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                <TextBox Text="" Grid.Row="2" Grid.Column="1" x:Name="tbAddress" FontSize="16" HorizontalAlignment="Center" Height="30" VerticalAlignment="Center" Width="190"/>
+
+                <Label Grid.Row="2" Grid.Column="2" Content="Email:" FontSize="16" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                <TextBox Text="" Grid.Row="2" Grid.Column="3" x:Name="tbEmail" FontSize="16" HorizontalAlignment="Center" Height="30" VerticalAlignment="Center" Width="190">
+                    
+                </TextBox>
+                
+                <Label Grid.Row="2" Grid.Column="4" Content="Reduction %:" FontSize="16" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                <TextBox Text="" Grid.Row="2" Grid.Column="5" x:Name="tbDiscount" FontSize="16" HorizontalAlignment="Center" Height="30" VerticalAlignment="Center" Width="190">
+                    
+                </TextBox>
+                <Label Grid.Row="3" Grid.Column="0" Content="Fidélio:" FontSize="16" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                <ComboBox Text="" Grid.Row="3" Grid.Column="1" x:Name="cmbFidelio" FontSize="16" HorizontalAlignment="Center" Height="30" VerticalAlignment="Center" Width="190">
+                    <ComboBoxItem>Fidélio-15€-1an-5%</ComboBoxItem>
+                    <ComboBoxItem>Fidélio-25€-2ans-8%</ComboBoxItem>
+                    <ComboBoxItem>Fidélio-60€-2ans-10%</ComboBoxItem>
+                    <ComboBoxItem>Fidélio-100€-3ans-12%</ComboBoxItem>
+                </ComboBox>
+
+                <Button x:Name="Ajouter" Grid.Row="3" Grid.RowSpan="2" Grid.Column="5" Height="40" Width="193" VerticalAlignment="Center" HorizontalAlignment="Center" Content="Ajouter" FontSize="20" Click="AddStore_Click"/>
+            </Grid>
+        </GroupBox>
+
+        <Label Grid.Row="3" Grid.Column="0" Content="Filtrer selon Fidelio:" Margin="0,0,400,0" FontSize="16" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        <ComboBox Text="Please Select" SelectedItem="Content" SelectionChanged="cmbFidelioFilter_SelectionChanged" Grid.Row="3" Grid.Column="1" x:Name="cmbFidelioFilter" FontSize="16" HorizontalAlignment="Center" Height="30" VerticalAlignment="Center" Width="190">
+            <ComboBoxItem IsSelected="True">Veuillez choisir</ComboBoxItem>
+            <ComboBoxItem>Fidélio-15€-1an-5%</ComboBoxItem>
+            <ComboBoxItem>Fidélio-25€-2ans-8%</ComboBoxItem>
+            <ComboBoxItem>Fidélio-60€-2ans-10%</ComboBoxItem>
+            <ComboBoxItem>Fidélio-100€-3ans-12%</ComboBoxItem>
+        </ComboBox>
+        <DataGrid Grid.Row="4" Margin="20,0,20,100" AutoGenerateColumns="False" CanUserAddRows="False" CanUserDeleteRows="False" Name="dgStore">
+            <DataGrid.Columns>
+                <DataGridTextColumn Width="*" Visibility="Hidden" Foreground="Black" Header="ID" Binding="{Binding Id, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" />
+                <DataGridTextColumn Width="*" Foreground="Black" Header="Nom" Binding="{Binding CompanyNom, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" />
+                <DataGridTextColumn Width="*" Foreground="Black" Header="Email" Binding="{Binding Email, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" />
+                <DataGridTextColumn Width="*" Foreground="Black" Header="Numéro." Binding="{Binding Contact, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" />
+                <DataGridTextColumn Width="*" Foreground="Black" Header="Adresse" Binding="{Binding Address, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" />
+                <DataGridTextColumn Width="*" Foreground="Black" Header="Type" Binding="{Binding Type, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" />
+                <DataGridTemplateColumn Header="Modifier" Width="*">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Button Content="Modifier" Click="Update_Row"/>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+                <DataGridTemplateColumn Header="Supprimer" Width="*">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Button Content="Supprimer" Click="Delete_Row"/>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+            </DataGrid.Columns>
+
+        </DataGrid>
+
+    </Grid>
+</Window>

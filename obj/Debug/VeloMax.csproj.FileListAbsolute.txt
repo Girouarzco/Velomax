@@ -1,0 +1,178 @@
+C:\Users\Muhammad Mohid\source\repos\VeloMax\VeloMax\bin\Debug\VeloMax.exe.config
+C:\Users\Muhammad Mohid\source\repos\VeloMax\VeloMax\bin\Debug\VeloMax.exe
+C:\Users\Muhammad Mohid\source\repos\VeloMax\VeloMax\bin\Debug\VeloMax.pdb
+C:\Users\Muhammad Mohid\source\repos\VeloMax\VeloMax\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Muhammad Mohid\source\repos\VeloMax\VeloMax\bin\Debug\Google.Protobuf.dll
+C:\Users\Muhammad Mohid\source\repos\VeloMax\VeloMax\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Muhammad Mohid\source\repos\VeloMax\VeloMax\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Muhammad Mohid\source\repos\VeloMax\VeloMax\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Muhammad Mohid\source\repos\VeloMax\VeloMax\bin\Debug\MySql.Data.dll
+C:\Users\Muhammad Mohid\source\repos\VeloMax\VeloMax\bin\Debug\System.Buffers.dll
+C:\Users\Muhammad Mohid\source\repos\VeloMax\VeloMax\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Muhammad Mohid\source\repos\VeloMax\VeloMax\bin\Debug\System.Memory.dll
+C:\Users\Muhammad Mohid\source\repos\VeloMax\VeloMax\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Muhammad Mohid\source\repos\VeloMax\VeloMax\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Muhammad Mohid\source\repos\VeloMax\VeloMax\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Muhammad Mohid\source\repos\VeloMax\VeloMax\bin\Debug\System.Security.Permissions.dll
+C:\Users\Muhammad Mohid\source\repos\VeloMax\VeloMax\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Muhammad Mohid\source\repos\VeloMax\VeloMax\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Muhammad Mohid\source\repos\VeloMax\VeloMax\bin\Debug\Zstandard.Net.dll
+C:\Users\Muhammad Mohid\source\repos\VeloMax\VeloMax\bin\Debug\Google.Protobuf.pdb
+C:\Users\Muhammad Mohid\source\repos\VeloMax\VeloMax\bin\Debug\Google.Protobuf.xml
+C:\Users\Muhammad Mohid\source\repos\VeloMax\VeloMax\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Muhammad Mohid\source\repos\VeloMax\VeloMax\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Muhammad Mohid\source\repos\VeloMax\VeloMax\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Muhammad Mohid\source\repos\VeloMax\VeloMax\bin\Debug\MySql.Data.xml
+C:\Users\Muhammad Mohid\source\repos\VeloMax\VeloMax\bin\Debug\System.Buffers.xml
+C:\Users\Muhammad Mohid\source\repos\VeloMax\VeloMax\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Muhammad Mohid\source\repos\VeloMax\VeloMax\bin\Debug\System.Memory.xml
+C:\Users\Muhammad Mohid\source\repos\VeloMax\VeloMax\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Muhammad Mohid\source\repos\VeloMax\VeloMax\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Muhammad Mohid\source\repos\VeloMax\VeloMax\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Muhammad Mohid\source\repos\VeloMax\VeloMax\bin\Debug\System.Security.Permissions.xml
+C:\Users\Muhammad Mohid\source\repos\VeloMax\VeloMax\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Muhammad Mohid\source\repos\VeloMax\VeloMax\obj\Debug\VeloMax.csprojAssemblyReference.cache
+C:\Users\Muhammad Mohid\source\repos\VeloMax\VeloMax\obj\Debug\MainWindow.g.cs
+C:\Users\Muhammad Mohid\source\repos\VeloMax\VeloMax\obj\Debug\Views\BikeManagement.g.cs
+C:\Users\Muhammad Mohid\source\repos\VeloMax\VeloMax\obj\Debug\App.g.cs
+C:\Users\Muhammad Mohid\source\repos\VeloMax\VeloMax\obj\Debug\VeloMax_MarkupCompile.cache
+C:\Users\Muhammad Mohid\source\repos\VeloMax\VeloMax\obj\Debug\VeloMax_MarkupCompile.lref
+C:\Users\Muhammad Mohid\source\repos\VeloMax\VeloMax\obj\Debug\MainWindow.baml
+C:\Users\Muhammad Mohid\source\repos\VeloMax\VeloMax\obj\Debug\Views\BikeManagement.baml
+C:\Users\Muhammad Mohid\source\repos\VeloMax\VeloMax\obj\Debug\VeloMax.g.resources
+C:\Users\Muhammad Mohid\source\repos\VeloMax\VeloMax\obj\Debug\VeloMax.Properties.Resources.resources
+C:\Users\Muhammad Mohid\source\repos\VeloMax\VeloMax\obj\Debug\VeloMax.csproj.GenerateResource.cache
+C:\Users\Muhammad Mohid\source\repos\VeloMax\VeloMax\obj\Debug\VeloMax.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Mohid\source\repos\VeloMax\VeloMax\obj\Debug\VeloMax.csproj.CopyComplete
+C:\Users\Muhammad Mohid\source\repos\VeloMax\VeloMax\obj\Debug\VeloMax.exe
+C:\Users\Muhammad Mohid\source\repos\VeloMax\VeloMax\obj\Debug\VeloMax.pdb
+C:\Users\Muhammad Mohid\source\repos\VeloMax\VeloMax\obj\Debug\Views\SparePartsManagement.g.cs
+C:\Users\Muhammad Mohid\source\repos\VeloMax\VeloMax\obj\Debug\Views\SparePartsManagement.baml
+C:\Users\Muhammad Mohid\source\repos\VeloMax\VeloMax\obj\Debug\Views\Fournisseurs.g.cs
+C:\Users\Muhammad Mohid\source\repos\VeloMax\VeloMax\obj\Debug\Views\Clients.g.cs
+C:\Users\Muhammad Mohid\source\repos\VeloMax\VeloMax\obj\Debug\Views\Fournisseurs.baml
+C:\Users\Muhammad Mohid\source\repos\VeloMax\VeloMax\obj\Debug\Views\Clients.baml
+C:\Users\Muhammad Mohid\Desktop\Fiverr\Jeanne\2\VeloMax\VeloMax\bin\Debug\bg.jpg
+C:\Users\Muhammad Mohid\Desktop\Fiverr\Jeanne\2\VeloMax\VeloMax\bin\Debug\VeloMax.exe.config
+C:\Users\Muhammad Mohid\Desktop\Fiverr\Jeanne\2\VeloMax\VeloMax\bin\Debug\VeloMax.exe
+C:\Users\Muhammad Mohid\Desktop\Fiverr\Jeanne\2\VeloMax\VeloMax\bin\Debug\VeloMax.pdb
+C:\Users\Muhammad Mohid\Desktop\Fiverr\Jeanne\2\VeloMax\VeloMax\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Muhammad Mohid\Desktop\Fiverr\Jeanne\2\VeloMax\VeloMax\bin\Debug\Google.Protobuf.dll
+C:\Users\Muhammad Mohid\Desktop\Fiverr\Jeanne\2\VeloMax\VeloMax\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Muhammad Mohid\Desktop\Fiverr\Jeanne\2\VeloMax\VeloMax\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Muhammad Mohid\Desktop\Fiverr\Jeanne\2\VeloMax\VeloMax\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Muhammad Mohid\Desktop\Fiverr\Jeanne\2\VeloMax\VeloMax\bin\Debug\MySql.Data.dll
+C:\Users\Muhammad Mohid\Desktop\Fiverr\Jeanne\2\VeloMax\VeloMax\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Muhammad Mohid\Desktop\Fiverr\Jeanne\2\VeloMax\VeloMax\bin\Debug\System.Buffers.dll
+C:\Users\Muhammad Mohid\Desktop\Fiverr\Jeanne\2\VeloMax\VeloMax\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Muhammad Mohid\Desktop\Fiverr\Jeanne\2\VeloMax\VeloMax\bin\Debug\System.Memory.dll
+C:\Users\Muhammad Mohid\Desktop\Fiverr\Jeanne\2\VeloMax\VeloMax\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Muhammad Mohid\Desktop\Fiverr\Jeanne\2\VeloMax\VeloMax\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Muhammad Mohid\Desktop\Fiverr\Jeanne\2\VeloMax\VeloMax\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Muhammad Mohid\Desktop\Fiverr\Jeanne\2\VeloMax\VeloMax\bin\Debug\System.Security.Permissions.dll
+C:\Users\Muhammad Mohid\Desktop\Fiverr\Jeanne\2\VeloMax\VeloMax\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Muhammad Mohid\Desktop\Fiverr\Jeanne\2\VeloMax\VeloMax\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Muhammad Mohid\Desktop\Fiverr\Jeanne\2\VeloMax\VeloMax\bin\Debug\Zstandard.Net.dll
+C:\Users\Muhammad Mohid\Desktop\Fiverr\Jeanne\2\VeloMax\VeloMax\bin\Debug\Google.Protobuf.pdb
+C:\Users\Muhammad Mohid\Desktop\Fiverr\Jeanne\2\VeloMax\VeloMax\bin\Debug\Google.Protobuf.xml
+C:\Users\Muhammad Mohid\Desktop\Fiverr\Jeanne\2\VeloMax\VeloMax\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Muhammad Mohid\Desktop\Fiverr\Jeanne\2\VeloMax\VeloMax\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Muhammad Mohid\Desktop\Fiverr\Jeanne\2\VeloMax\VeloMax\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Muhammad Mohid\Desktop\Fiverr\Jeanne\2\VeloMax\VeloMax\bin\Debug\MySql.Data.xml
+C:\Users\Muhammad Mohid\Desktop\Fiverr\Jeanne\2\VeloMax\VeloMax\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Muhammad Mohid\Desktop\Fiverr\Jeanne\2\VeloMax\VeloMax\bin\Debug\System.Buffers.xml
+C:\Users\Muhammad Mohid\Desktop\Fiverr\Jeanne\2\VeloMax\VeloMax\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Muhammad Mohid\Desktop\Fiverr\Jeanne\2\VeloMax\VeloMax\bin\Debug\System.Memory.xml
+C:\Users\Muhammad Mohid\Desktop\Fiverr\Jeanne\2\VeloMax\VeloMax\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Muhammad Mohid\Desktop\Fiverr\Jeanne\2\VeloMax\VeloMax\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Muhammad Mohid\Desktop\Fiverr\Jeanne\2\VeloMax\VeloMax\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Muhammad Mohid\Desktop\Fiverr\Jeanne\2\VeloMax\VeloMax\bin\Debug\System.Security.Permissions.xml
+C:\Users\Muhammad Mohid\Desktop\Fiverr\Jeanne\2\VeloMax\VeloMax\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Muhammad Mohid\Desktop\Fiverr\Jeanne\2\VeloMax\VeloMax\obj\Debug\VeloMax.csprojAssemblyReference.cache
+C:\Users\Muhammad Mohid\Desktop\Fiverr\Jeanne\2\VeloMax\VeloMax\obj\Debug\Login.g.cs
+C:\Users\Muhammad Mohid\Desktop\Fiverr\Jeanne\2\VeloMax\VeloMax\obj\Debug\MainWindow.g.cs
+C:\Users\Muhammad Mohid\Desktop\Fiverr\Jeanne\2\VeloMax\VeloMax\obj\Debug\Views\BikeManagement.g.cs
+C:\Users\Muhammad Mohid\Desktop\Fiverr\Jeanne\2\VeloMax\VeloMax\obj\Debug\Views\ClientOrder.g.cs
+C:\Users\Muhammad Mohid\Desktop\Fiverr\Jeanne\2\VeloMax\VeloMax\obj\Debug\Views\Fournisseurs.g.cs
+C:\Users\Muhammad Mohid\Desktop\Fiverr\Jeanne\2\VeloMax\VeloMax\obj\Debug\Views\SparePartsManagement.g.cs
+C:\Users\Muhammad Mohid\Desktop\Fiverr\Jeanne\2\VeloMax\VeloMax\obj\Debug\Views\Clients.g.cs
+C:\Users\Muhammad Mohid\Desktop\Fiverr\Jeanne\2\VeloMax\VeloMax\obj\Debug\App.g.cs
+C:\Users\Muhammad Mohid\Desktop\Fiverr\Jeanne\2\VeloMax\VeloMax\obj\Debug\VeloMax_Content.g.cs
+C:\Users\Muhammad Mohid\Desktop\Fiverr\Jeanne\2\VeloMax\VeloMax\obj\Debug\VeloMax_MarkupCompile.cache
+C:\Users\Muhammad Mohid\Desktop\Fiverr\Jeanne\2\VeloMax\VeloMax\obj\Debug\VeloMax_MarkupCompile.lref
+C:\Users\Muhammad Mohid\Desktop\Fiverr\Jeanne\2\VeloMax\VeloMax\obj\Debug\Login.baml
+C:\Users\Muhammad Mohid\Desktop\Fiverr\Jeanne\2\VeloMax\VeloMax\obj\Debug\MainWindow.baml
+C:\Users\Muhammad Mohid\Desktop\Fiverr\Jeanne\2\VeloMax\VeloMax\obj\Debug\Views\BikeManagement.baml
+C:\Users\Muhammad Mohid\Desktop\Fiverr\Jeanne\2\VeloMax\VeloMax\obj\Debug\Views\ClientOrder.baml
+C:\Users\Muhammad Mohid\Desktop\Fiverr\Jeanne\2\VeloMax\VeloMax\obj\Debug\Views\Fournisseurs.baml
+C:\Users\Muhammad Mohid\Desktop\Fiverr\Jeanne\2\VeloMax\VeloMax\obj\Debug\Views\SparePartsManagement.baml
+C:\Users\Muhammad Mohid\Desktop\Fiverr\Jeanne\2\VeloMax\VeloMax\obj\Debug\Views\Clients.baml
+C:\Users\Muhammad Mohid\Desktop\Fiverr\Jeanne\2\VeloMax\VeloMax\obj\Debug\VeloMax.g.resources
+C:\Users\Muhammad Mohid\Desktop\Fiverr\Jeanne\2\VeloMax\VeloMax\obj\Debug\VeloMax.Properties.Resources.resources
+C:\Users\Muhammad Mohid\Desktop\Fiverr\Jeanne\2\VeloMax\VeloMax\obj\Debug\VeloMax.csproj.GenerateResource.cache
+C:\Users\Muhammad Mohid\Desktop\Fiverr\Jeanne\2\VeloMax\VeloMax\obj\Debug\VeloMax.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Mohid\Desktop\Fiverr\Jeanne\2\VeloMax\VeloMax\obj\Debug\VeloMax.csproj.CopyComplete
+C:\Users\Muhammad Mohid\Desktop\Fiverr\Jeanne\2\VeloMax\VeloMax\obj\Debug\VeloMax.exe
+C:\Users\Muhammad Mohid\Desktop\Fiverr\Jeanne\2\VeloMax\VeloMax\obj\Debug\VeloMax.pdb
+\\Mac\Home\Desktop\Velomax_Completed\VeloMax\VeloMax\bin\Debug\bg.jpg
+\\Mac\Home\Desktop\Velomax_Completed\VeloMax\VeloMax\bin\Debug\VeloMax.exe.config
+\\Mac\Home\Desktop\Velomax_Completed\VeloMax\VeloMax\bin\Debug\VeloMax.exe
+\\Mac\Home\Desktop\Velomax_Completed\VeloMax\VeloMax\bin\Debug\VeloMax.pdb
+\\Mac\Home\Desktop\Velomax_Completed\VeloMax\VeloMax\bin\Debug\BouncyCastle.Crypto.dll
+\\Mac\Home\Desktop\Velomax_Completed\VeloMax\VeloMax\bin\Debug\Google.Protobuf.dll
+\\Mac\Home\Desktop\Velomax_Completed\VeloMax\VeloMax\bin\Debug\K4os.Compression.LZ4.dll
+\\Mac\Home\Desktop\Velomax_Completed\VeloMax\VeloMax\bin\Debug\K4os.Compression.LZ4.Streams.dll
+\\Mac\Home\Desktop\Velomax_Completed\VeloMax\VeloMax\bin\Debug\K4os.Hash.xxHash.dll
+\\Mac\Home\Desktop\Velomax_Completed\VeloMax\VeloMax\bin\Debug\MySql.Data.dll
+\\Mac\Home\Desktop\Velomax_Completed\VeloMax\VeloMax\bin\Debug\Newtonsoft.Json.dll
+\\Mac\Home\Desktop\Velomax_Completed\VeloMax\VeloMax\bin\Debug\System.Buffers.dll
+\\Mac\Home\Desktop\Velomax_Completed\VeloMax\VeloMax\bin\Debug\System.Configuration.ConfigurationManager.dll
+\\Mac\Home\Desktop\Velomax_Completed\VeloMax\VeloMax\bin\Debug\System.Memory.dll
+\\Mac\Home\Desktop\Velomax_Completed\VeloMax\VeloMax\bin\Debug\System.Numerics.Vectors.dll
+\\Mac\Home\Desktop\Velomax_Completed\VeloMax\VeloMax\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+\\Mac\Home\Desktop\Velomax_Completed\VeloMax\VeloMax\bin\Debug\System.Security.AccessControl.dll
+\\Mac\Home\Desktop\Velomax_Completed\VeloMax\VeloMax\bin\Debug\System.Security.Permissions.dll
+\\Mac\Home\Desktop\Velomax_Completed\VeloMax\VeloMax\bin\Debug\System.Security.Principal.Windows.dll
+\\Mac\Home\Desktop\Velomax_Completed\VeloMax\VeloMax\bin\Debug\Ubiety.Dns.Core.dll
+\\Mac\Home\Desktop\Velomax_Completed\VeloMax\VeloMax\bin\Debug\Zstandard.Net.dll
+\\Mac\Home\Desktop\Velomax_Completed\VeloMax\VeloMax\bin\Debug\Google.Protobuf.pdb
+\\Mac\Home\Desktop\Velomax_Completed\VeloMax\VeloMax\bin\Debug\Google.Protobuf.xml
+\\Mac\Home\Desktop\Velomax_Completed\VeloMax\VeloMax\bin\Debug\K4os.Compression.LZ4.xml
+\\Mac\Home\Desktop\Velomax_Completed\VeloMax\VeloMax\bin\Debug\K4os.Compression.LZ4.Streams.xml
+\\Mac\Home\Desktop\Velomax_Completed\VeloMax\VeloMax\bin\Debug\K4os.Hash.xxHash.xml
+\\Mac\Home\Desktop\Velomax_Completed\VeloMax\VeloMax\bin\Debug\MySql.Data.xml
+\\Mac\Home\Desktop\Velomax_Completed\VeloMax\VeloMax\bin\Debug\Newtonsoft.Json.xml
+\\Mac\Home\Desktop\Velomax_Completed\VeloMax\VeloMax\bin\Debug\System.Buffers.xml
+\\Mac\Home\Desktop\Velomax_Completed\VeloMax\VeloMax\bin\Debug\System.Configuration.ConfigurationManager.xml
+\\Mac\Home\Desktop\Velomax_Completed\VeloMax\VeloMax\bin\Debug\System.Memory.xml
+\\Mac\Home\Desktop\Velomax_Completed\VeloMax\VeloMax\bin\Debug\System.Numerics.Vectors.xml
+\\Mac\Home\Desktop\Velomax_Completed\VeloMax\VeloMax\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+\\Mac\Home\Desktop\Velomax_Completed\VeloMax\VeloMax\bin\Debug\System.Security.AccessControl.xml
+\\Mac\Home\Desktop\Velomax_Completed\VeloMax\VeloMax\bin\Debug\System.Security.Permissions.xml
+\\Mac\Home\Desktop\Velomax_Completed\VeloMax\VeloMax\bin\Debug\System.Security.Principal.Windows.xml
+\\Mac\Home\Desktop\Velomax_Completed\VeloMax\VeloMax\obj\Debug\VeloMax.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\Velomax_Completed\VeloMax\VeloMax\obj\Debug\Login.g.cs
+\\Mac\Home\Desktop\Velomax_Completed\VeloMax\VeloMax\obj\Debug\MainWindow.g.cs
+\\Mac\Home\Desktop\Velomax_Completed\VeloMax\VeloMax\obj\Debug\Views\Fournisseurs.g.cs
+\\Mac\Home\Desktop\Velomax_Completed\VeloMax\VeloMax\obj\Debug\Views\Clients.g.cs
+\\Mac\Home\Desktop\Velomax_Completed\VeloMax\VeloMax\obj\Debug\App.g.cs
+\\Mac\Home\Desktop\Velomax_Completed\VeloMax\VeloMax\obj\Debug\VeloMax_Content.g.cs
+\\Mac\Home\Desktop\Velomax_Completed\VeloMax\VeloMax\obj\Debug\VeloMax_MarkupCompile.cache
+\\Mac\Home\Desktop\Velomax_Completed\VeloMax\VeloMax\obj\Debug\VeloMax_MarkupCompile.lref
+\\Mac\Home\Desktop\Velomax_Completed\VeloMax\VeloMax\obj\Debug\Login.baml
+\\Mac\Home\Desktop\Velomax_Completed\VeloMax\VeloMax\obj\Debug\MainWindow.baml
+\\Mac\Home\Desktop\Velomax_Completed\VeloMax\VeloMax\obj\Debug\Views\Fournisseurs.baml
+\\Mac\Home\Desktop\Velomax_Completed\VeloMax\VeloMax\obj\Debug\Views\Clients.baml
+\\Mac\Home\Desktop\Velomax_Completed\VeloMax\VeloMax\obj\Debug\VeloMax.g.resources
+\\Mac\Home\Desktop\Velomax_Completed\VeloMax\VeloMax\obj\Debug\VeloMax.Properties.Resources.resources
+\\Mac\Home\Desktop\Velomax_Completed\VeloMax\VeloMax\obj\Debug\VeloMax.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\Velomax_Completed\VeloMax\VeloMax\obj\Debug\VeloMax.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Velomax_Completed\VeloMax\VeloMax\obj\Debug\VeloMax.csproj.CopyComplete
+\\Mac\Home\Desktop\Velomax_Completed\VeloMax\VeloMax\obj\Debug\VeloMax.exe
+\\Mac\Home\Desktop\Velomax_Completed\VeloMax\VeloMax\obj\Debug\VeloMax.pdb
+\\Mac\Home\Desktop\Velomax_Completed\VeloMax\VeloMax\obj\Debug\Views\Gestionvelos.g.cs
+\\Mac\Home\Desktop\Velomax_Completed\VeloMax\VeloMax\obj\Debug\Views\Gestionvelos.baml
+\\Mac\Home\Desktop\Velomax_Completed\VeloMax\VeloMax\obj\Debug\Views\Commande.g.cs
+\\Mac\Home\Desktop\Velomax_Completed\VeloMax\VeloMax\obj\Debug\Views\Commande.baml
+\\Mac\Home\Desktop\Velomax_Completed\VeloMax\VeloMax\obj\Debug\Views\Piecesdetachees.g.cs
+\\Mac\Home\Desktop\Velomax_Completed\VeloMax\VeloMax\obj\Debug\Views\Piecesdetachees.baml
